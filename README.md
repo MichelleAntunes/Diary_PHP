@@ -6,7 +6,11 @@
     <img alt="My diary" title="My diary" src="./img/Dashboard.jpg" />
 </h1>
 
-## Table of Contents::
+## Video demonstration:
+
+- https://www.loom.com/share/cab0966e77234205b04a5605f34843f0?sid=7a809b54-830e-4e7f-8be2-859c267d4749
+
+## Table of Contents:
 
 - <a href="#Objective"> Objective </a>
 - <a href="#Technologies Used"> Technologies Used </a>

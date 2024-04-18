@@ -6,6 +6,7 @@ include_once("connection.php");
 include_once("url.php");
 
 $data = $_POST;
+
 //Modificação no banco
 if(!empty($data)){
 
