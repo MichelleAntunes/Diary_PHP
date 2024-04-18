@@ -17,7 +17,7 @@
       </div>
       <div class="form-group">
         <label for="observations">Observations:</label>
-        <textarea type="text" class="form-control" id="observations" name="observations"   placeholder="Enter the observations" rows="3"> <?= $contact['phone'] ?>" </textarea>
+        <textarea type="text" class="form-control" id="observations" name="observations"   placeholder="Enter the observations" rows="3"> <?= $contact['observations'] ?> </textarea>
       </div>
       <button type="submit" class="btn btn-primary">Update</button>
     </form>
